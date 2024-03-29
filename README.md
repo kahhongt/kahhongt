@@ -1,5 +1,5 @@
 ## Hi 👋🏻 , I am Kah Hong.
-#### Please make yourself feel at home and help yourself to some **<a href="https://kahhongt.github.io/">cookies 🍪</a>** on the shelf.
+#### Please make yourself feel at home, help yourself to some **<a href="https://kahhongt.github.io/">cookies 🍪</a>** on the shelf and enjoy the company of my cat below.
 
 
 #### Tech Stack
