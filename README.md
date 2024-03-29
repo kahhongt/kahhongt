@@ -22,7 +22,7 @@
 
 <br></br>
 #### Current Fascinations
-1. LLM Agentic Model Workflows and RAG Procedures
+1. LLM Agentic Model Workflows and RAG Implementation
 2. C++ Language Development
 3. Recommendation Systems for Learning (anything)
 
