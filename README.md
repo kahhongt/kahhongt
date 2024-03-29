@@ -20,6 +20,13 @@
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 
+<br></br>
+#### Current Fascinations
+1. LLM Agentic Model Workflows and RAG Procedures
+2. C++ Language Development
+3. Recommendation Systems for Learning (anything)
+
+
 <!--
 **kahhongt/kahhongt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
