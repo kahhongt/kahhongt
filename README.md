@@ -6,7 +6,7 @@
 </div>
 
 ## Hi 👋🏻 , I am Kah Hong.
-#### Please make yourself feel at home, help yourself to some **<a href="https://kahhongt.github.io/">cookies 🍪</a>** on the shelf and enjoy the company of my cat below.
+#### Please make yourself feel at home, help yourself to some **<a href="https://kahhongt.github.io/">cookies 🍪</a>** on the shelf and enjoy the company of my cat.
 
 #### Tech Stack
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
