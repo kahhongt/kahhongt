@@ -24,7 +24,7 @@
 #### Current Fascinations
 1. LLM Agentic Model Workflows and RAG Implementation
 2. C++ Language Development
-3. Recommendation Systems for Learning (anything)
+3. Knowledge Aggregation Workflows, Data Engineering
 
 
 <!--
