@@ -27,6 +27,11 @@
 3. Knowledge Aggregation Workflows, Data Engineering
 
 
+#### Technical Expertise
+1. ML Quantitative Research - Equities, Commodities, Crypto
+2. Product Analytics and Experimentation, Product Growth
+3. Data Pipelines
+
 <!--
 **kahhongt/kahhongt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
