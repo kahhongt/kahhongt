@@ -25,6 +25,7 @@
 1. LLM Agentic Model Workflows and RAG Implementation
 2. C++ Language Development
 3. Knowledge Aggregation Workflows, Data Engineering
+4. Managing Cloud Services, especially on AWS
 
 
 #### Technical Expertise
