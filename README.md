@@ -24,14 +24,13 @@
 #### Current Fascinations
 1. LLM Agentic Model Workflows and RAG Implementation
 2. C++ Language Development
-3. Knowledge Aggregation Workflows, Data Engineering
-4. Managing Cloud Services, especially on AWS
-
+3. Knowledge Aggregation and Representation
+4. ML Ops
 
 #### Technical Expertise
-1. ML Quantitative Research - Equities, Commodities, Crypto
-2. Product Analytics and Experimentation, Product Growth
-3. Data Pipelines
+1. Applied AI Research for Knowledge Representation and Understanding
+2. ML Quantitative Research for Financial Markets - Equities, Commodities, Crypto
+3. Product Analytics and Experimentation Principles
 
 <!--
 **kahhongt/kahhongt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
